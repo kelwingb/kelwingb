@@ -41,11 +41,9 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=1572B6&labelColor=0D1117)&nbsp;
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
