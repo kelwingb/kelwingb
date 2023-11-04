@@ -2,7 +2,18 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kelwin+Gabriel;I'm+16+years+old;I+am+from+Acopiara,+CE;I+study+Computer+technician+course;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+<picture>
+<source 
+  height="180em"
+  srcset="https://github-readme-stats.vercel.app/api?username=Randson-Silva&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Randson-Silva&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Randson-Silva&show_icons=true" />
+</picture>
 <picture>
 <source 
   height="180em"
