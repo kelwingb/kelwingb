@@ -6,7 +6,7 @@
 <picture>
 <source 
   height="180em"
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelwin Gabriel&layout=compact&theme=tokyonight"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Randson-Silva&layout=compact&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
 <source
