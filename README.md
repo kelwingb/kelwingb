@@ -1,12 +1,4 @@
-https://mail.google.com/mail/u/0?ui=2&ik=8d7885ba1f&attid=0.1&permmsgid=msg-f:1784294184795243339&th=18c3161b8384034b&view=att&disp=inline&realattid=f_lppxoias0
- 
- 
- 
- 
- 
- 
- 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kelwin+Gabriel;I'm+16+years+old;I+am+from+Acopiara,+CE;I+study+Computer+technician+course;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
