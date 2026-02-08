@@ -3,10 +3,10 @@
 
 **`Desenvolvedor Full Stack | Java & React`**
 
-Me chamo Kelwin Gabriel, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na EEEP, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software no IFCE. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedln "[Kelwin Gabriel](www.linkedin.com/in/kelwin-gabriel-009627318)", e do meu Github "[kelwingb](https://github.com/kelwingb)", onde publico meus projetos, e também através do Instagram, com o perfil chamado "[Kelwin Dev](https://www.instagram.com/kelwingb_dev/)".
+Me chamo Kelwin Gabriel, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na EEEP, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software no IFCE. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedln "[Kelwin Gabriel](www.linkedin.com/in/kelwingb)", e do meu Github "[kelwingb](https://github.com/kelwingb)", onde publico meus projetos, e também através do Instagram, com o perfil chamado "[Kelwin Dev](https://www.instagram.com/kelwingb_dev/)".
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/kelwin-gabriel-009627318" target="_blank">
+    <a href="https://www.linkedin.com/in/kelwingb" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
     <a href="https://github.com/kelwingb?tab=repositories&sort=stargazers">
